@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 43c16c5e571361641a04ba2d3bf5b5a2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ChildishFree
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 39fbe1992ad874b48984b3d2a95557b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
